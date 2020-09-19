@@ -1,0 +1,5 @@
+C:\Users\braia\source\repos\Lab5.3\Negocio\bin\Debug\Negocio.dll
+C:\Users\braia\source\repos\Lab5.3\Negocio\bin\Debug\Negocio.pdb
+C:\Users\braia\source\repos\Lab5.3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\braia\source\repos\Lab5.3\Negocio\obj\Debug\Negocio.dll
+C:\Users\braia\source\repos\Lab5.3\Negocio\obj\Debug\Negocio.pdb
